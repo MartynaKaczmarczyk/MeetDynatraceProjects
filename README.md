@@ -1,9 +1,9 @@
 # MeetDynatraceProject
-To start the server, run this command in backend directory:
+To start the server, run this command in the backend directory:
 
 `node index.js`
 
-To start the frontend written in react, run this command in frontend directory:
+To start the frontend written in react, run this command in the frontend directory:
 
 `npm start`
 
