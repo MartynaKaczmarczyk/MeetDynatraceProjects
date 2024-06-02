@@ -1,5 +1,5 @@
 # MeetDynatraceProject
-To start the server, run this command:
+To start the server, run this command in backend directory:
 
 `node index.js`
 
