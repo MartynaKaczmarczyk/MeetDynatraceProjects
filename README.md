@@ -1,4 +1,4 @@
-# MeetDynatraceProject
+# MeetDynatraceProject - Narodowy Bank Polski, backend oriented task
 To start the server, run this command in the backend directory:
 
 `node index.js`
